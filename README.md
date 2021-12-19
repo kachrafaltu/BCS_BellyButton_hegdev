@@ -1,7 +1,7 @@
 # BCS_BellyButton_hegdev
 
 
-This repository is used for the webscraping homework submission for GT data analytics bootcamp for hegdev
+This repository is used for the plotly homework submission for GT data analytics bootcamp for hegdev
 
 This repository has the following files
 
